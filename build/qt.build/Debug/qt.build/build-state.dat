@@ -1,0 +1,356 @@
+Tqt
+v7
+r3
+t332896811.735336
+cCheck dependencies
+cProcessInfoPlistFile /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug/qt.app/Contents/Info.plist Info.plist
+cPhaseScriptExecution "Qt Qmake" /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/Script-D7BA7D76DAB5DD13389D6332.sh
+cPhaseScriptExecution "Qt Preprocessors" /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/Script-A0A52A2ADF7A1E2A99738674.sh
+cCompileC build/qt.build/Debug/qt.build/Objects-normal/i386/main.o /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/qt.build/Debug/qt.build/Objects-normal/i386/mainwindow.o /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/mainwindow.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+cCompileC build/qt.build/Debug/qt.build/Objects-normal/i386/moc_mainwindow.o /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/moc_mainwindow.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+
+N/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/H264.h
+c000000004E269E560000000000000796
+t1311153750
+s1942
+i"MotionVector.h"
+
+N/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/MotionVector.h
+c000000004E267BA20000000000000309
+t1311144866
+s777
+i<highgui.h>
+i"cv.h"
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<math.h>
+
+N/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug/qt.app
+t1311196564
+s102
+
+N/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug/qt.app/Contents/Info.plist
+t1311204007
+s947
+
+N/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug/qt.app/Contents/MacOS/qt
+t2
+s0
+
+N/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug/qt.app/Contents/PkgInfo
+t1311204007
+s8
+
+N/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/Objects-normal/i386/main.o
+t2
+s0
+
+N/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/Objects-normal/i386/mainwindow.o
+t2
+s0
+
+N/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/Objects-normal/i386/moc_mainwindow.o
+t2
+s0
+
+N/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/Objects-normal/i386/qt.LinkFileList
+c000000004E27459400000000000001B4
+t1311196564
+s436
+
+N/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/Script-A0A52A2ADF7A1E2A99738674.sh
+c000000004E2745940000000000000089
+t1311196564
+s137
+
+N/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/Script-D7BA7D76DAB5DD13389D6332.sh
+c000000004E2745940000000000000088
+t1311196564
+s136
+
+N/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/main.cpp
+c000000004E275E9400000000000004B9
+t1311202964
+s1209
+i<QtGui/QApplication>
+i"mainwindow.h"
+
+N/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/mainwindow.cpp
+c000000004E2762340000000000000271
+t1311203892
+s625
+i"mainwindow.h"
+i"ui_mainwindow.h"
+
+N/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/mainwindow.h
+c000000004E2761C4000000000000022D
+t1311203780
+s557
+i<QMainWindow>
+i"H264.h"
+
+N/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/moc_mainwindow.cpp
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/qt.app
+t2
+s0
+
+N/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/ui_mainwindow.h
+c000000004E27621F0000000000001D64
+t1311203871
+s7524
+i<QtCore/QVariant>
+i<QtGui/QAction>
+i<QtGui/QApplication>
+i<QtGui/QButtonGroup>
+i<QtGui/QHBoxLayout>
+i<QtGui/QHeaderView>
+i<QtGui/QLabel>
+i<QtGui/QMainWindow>
+i<QtGui/QPlainTextEdit>
+i<QtGui/QPushButton>
+i<QtGui/QSlider>
+i<QtGui/QStatusBar>
+i<QtGui/QWidget>
+i"mainwindow.h"
+
+N/usr/include/math.h
+c000000004AC599B500000000000004F1
+t1254463925
+s1265
+
+N/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/usr/include/stdlib.h
+c000000004BBD2CE90000000000002DF5
+t1270689001
+s11765
+
+N/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+
+N/usr/local/Cellar/opencv/2.2/include/opencv/cv.h
+c000000004E113FE50000000000000D55
+t1309753317
+s3413
+i"opencv2/core/core_c.h"
+i"opencv2/core/core.hpp"
+i"opencv2/imgproc/imgproc_c.h"
+i"opencv2/imgproc/imgproc.hpp"
+i"opencv2/video/tracking.hpp"
+i"opencv2/features2d/features2d.hpp"
+i"opencv2/flann/flann.hpp"
+i"opencv2/calib3d/calib3d.hpp"
+i"opencv2/objdetect/objdetect.hpp"
+i"opencv2/legacy/compat.hpp"
+i"opencv2/core/internal.hpp"
+
+N/usr/local/Cellar/opencv/2.2/include/opencv/highgui.h
+c000000004E113FE50000000000000902
+t1309753317
+s2306
+i"opencv2/core/core_c.h"
+i"opencv2/core/core.hpp"
+i"opencv2/highgui/highgui_c.h"
+i"opencv2/highgui/highgui.hpp"
+
+N/usr/local/Cellar/qt/4.7.3/lib/QtCore.framework/QtCore
+c000000004DFFB3E300000000005B46D8
+t1308603363
+s5981912
+
+N/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/QtGui
+c000000004DFFB3E800000000016CF188
+t1308603368
+s23916936
+
+N/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/QMainWindow
+c000000004DFFB3E70000000000000019
+t1308603367
+s25
+i"qmainwindow.h"
+
+N/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/qmainwindow.h
+c000000004DFFB3E70000000000001C5A
+t1308603367
+s7258
+i<QtGui/qwidget.h>
+i<QtGui/qtabwidget.h>
+
+N/usr/local/include/opencv2/calib3d/calib3d.hpp
+c000000004E113FE500000000000091EA
+t1309753317
+s37354
+
+N/usr/local/include/opencv2/core/core.hpp
+c000000004E113FE60000000000028B35
+t1309753318
+s166709
+
+N/usr/local/include/opencv2/core/core_c.h
+c000000004E113FE600000000000132E4
+t1309753318
+s78564
+
+N/usr/local/include/opencv2/core/internal.hpp
+c000000004E113FE60000000000007C0B
+t1309753318
+s31755
+
+N/usr/local/include/opencv2/features2d/features2d.hpp
+c000000004E113FE6000000000001DCB2
+t1309753318
+s122034
+
+N/usr/local/include/opencv2/flann/flann.hpp
+c000000004E113FE60000000000001DF3
+t1309753318
+s7667
+
+N/usr/local/include/opencv2/highgui/highgui.hpp
+c000000004E113FE60000000000001A85
+t1309753318
+s6789
+
+N/usr/local/include/opencv2/highgui/highgui_c.h
+c000000004E113FE60000000000004AC3
+t1309753318
+s19139
+
+N/usr/local/include/opencv2/imgproc/imgproc.hpp
+c000000004E113FE6000000000000A786
+t1309753318
+s42886
+
+N/usr/local/include/opencv2/imgproc/imgproc_c.h
+c000000004E113FE60000000000009012
+t1309753318
+s36882
+
+N/usr/local/include/opencv2/legacy/compat.hpp
+c000000004E113FE600000000000064DF
+t1309753318
+s25823
+
+N/usr/local/include/opencv2/objdetect/objdetect.hpp
+c000000004E113FE70000000000005CB7
+t1309753319
+s23735
+
+N/usr/local/include/opencv2/video/tracking.hpp
+c000000004E113FE70000000000004292
+t1309753319
+s17042
+
+NInfo.plist
+c000000004E27629C000000000000024C
+t1311203996
+s588
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies332896807#332896807#0(0"0(0#1#0"8315161630257148928#0"0#
+
+CCompileC build/qt.build/Debug/qt.build/Objects-normal/i386/main.o /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/main.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s332896807.699525
+e332896811.534768
+r0
+xCompileC
+xbuild/qt.build/Debug/qt.build/Objects-normal/i386/main.o
+x/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+o/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/main.cpp:2:30: error: QtGui/QApplication: No such file or directory
+oIn file included from /usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/QMainWindow:1,
+o                 from /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/mainwindow.h:4,
+o                 from /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/main.cpp:3:
+o/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/qmainwindow.h:45:27: error: QtGui/qwidget.h: No such file or directory
+o/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/qmainwindow.h:46:30: error: QtGui/qtabwidget.h: No such file or directory
+lSLF07#2@99"Compile /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/main.cpp332896807#332896811#0(769"/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/main.cpp:2:30: error: QtGui/QApplication: No such file or directoryIn file included from /usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/QMainWindow:1,                 from /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/mainwindow.h:4,                 from /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/main.cpp:3:/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/qmainwindow.h:45:27: error: QtGui/qwidget.h: No such file or directory/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/qmainwindow.h:46:30: error: QtGui/qtabwidget.h: No such file or directory3(4@45"QtGui/QApplication: No such file or directory332896807#0#151#0(6@91"/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/main.cpp332895764#2#0#2#0#28"*: No such file or directory0(4@42"QtGui/qwidget.h: No such file or directory332896807#492#137#4(7@113"In file included from /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/main.cpp332896807#18446744073709551615#0#0(6@91"/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/main.cpp332895764#3#0#3#0#0"0(7@117"In file included from /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/mainwindow.h332896807#18446744073709551615#0#0(6@95"/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/mainwindow.h332896580#4#0#4#0#0"0(7@99"In file included from /usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/QMainWindow332896807#18446744073709551615#0#0(6@77"/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/QMainWindow330296167#1#0#1#0#0"0(13@125"QtGui/qwidget.h: No such file or directory in /usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/qmainwindow.h332896807#18446744073709551615#0#0(6@79"/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/qmainwindow.h330296167#45#0#45#0#0"0(6@79"/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/qmainwindow.h330296167#45#0#45#0#28"*: No such file or directory0(4@45"QtGui/qtabwidget.h: No such file or directory332896807#629#140#4(7@113"In file included from /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/main.cpp332896807#18446744073709551615#0#0(6@91"/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/main.cpp332895764#3#0#3#0#0"0(7@117"In file included from /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/mainwindow.h332896807#18446744073709551615#0#0(6@95"/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/mainwindow.h332896580#4#0#4#0#0"0(7@99"In file included from /usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/QMainWindow332896807#18446744073709551615#0#0(6@77"/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/QMainWindow330296167#1#0#1#0#0"0(13@128"QtGui/qtabwidget.h: No such file or directory in /usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/qmainwindow.h332896807#18446744073709551615#0#0(6@79"/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/qmainwindow.h330296167#46#0#46#0#0"0(6@79"/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/qmainwindow.h330296167#46#0#46#0#28"*: No such file or directory0(0#0#91"/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/main.cpp8599466464#1773"    cd /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project    setenv LANG en_US.US-ASCII    /Xcode3/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mdynamic-no-pic -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/qt.hmap -F/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug -I/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug/include -I/usr/local/Cellar/qt/4.7.3/lib/QtCore.framework/Versions/4/Headers -I/usr/local/Cellar/qt/4.7.3/include/QtCore -I/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers -I/usr/local/Cellar/qt/4.7.3/include/QtGui -I/usr/local/Cellar/qt/4.7.3/include -I/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers -I/usr/local/Cellar/opencv/2.2/include/opencv -I/usr/local/include -I. -I. -I/usr/local/include -I/System/Library/Frameworks/CarbonCore.framework/Headers -I/usr/local/Cellar/qt/4.7.3/mkspecs/macx-xcode -I/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/DerivedSources/i386 -I/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/DerivedSources -pipe -O2 -Wall -W -DQT_NO_DEBUG -DQT_GUI_LIB -DQT_CORE_LIB -DQT_SHARED -c /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/main.cpp -o /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/Objects-normal/i386/main.o2#
+
+CCompileC build/qt.build/Debug/qt.build/Objects-normal/i386/mainwindow.o /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/mainwindow.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s332896807.700189
+e332896811.635022
+r0
+xCompileC
+xbuild/qt.build/Debug/qt.build/Objects-normal/i386/mainwindow.o
+x/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/mainwindow.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/QMainWindow:1,
+o                 from /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/mainwindow.h:4,
+o                 from /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/mainwindow.cpp:1:
+o/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/qmainwindow.h:45:27: error: QtGui/qwidget.h: No such file or directory
+o/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/qmainwindow.h:46:30: error: QtGui/qtabwidget.h: No such file or directory
+lSLF07#2@105"Compile /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/mainwindow.cpp332896807#332896811#0(624"In file included from /usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/QMainWindow:1,                 from /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/mainwindow.h:4,                 from /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/mainwindow.cpp:1:/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/qmainwindow.h:45:27: error: QtGui/qwidget.h: No such file or directory/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/qmainwindow.h:46:30: error: QtGui/qtabwidget.h: No such file or directory2(4@42"QtGui/qwidget.h: No such file or directory332896807#347#137#4(7@119"In file included from /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/mainwindow.cpp332896807#18446744073709551615#0#0(6@97"/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/mainwindow.cpp332896692#1#0#1#0#0"0(7@117"In file included from /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/mainwindow.h332896807#18446744073709551615#0#0(6@95"/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/mainwindow.h332896580#4#0#4#0#0"0(7@99"In file included from /usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/QMainWindow332896807#18446744073709551615#0#0(6@77"/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/QMainWindow330296167#1#0#1#0#0"0(13@125"QtGui/qwidget.h: No such file or directory in /usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/qmainwindow.h332896807#18446744073709551615#0#0(6@79"/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/qmainwindow.h330296167#45#0#45#0#0"0(6@79"/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/qmainwindow.h330296167#45#0#45#0#28"*: No such file or directory0(4@45"QtGui/qtabwidget.h: No such file or directory332896807#484#140#4(7@119"In file included from /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/mainwindow.cpp332896807#18446744073709551615#0#0(6@97"/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/mainwindow.cpp332896692#1#0#1#0#0"0(7@117"In file included from /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/mainwindow.h332896807#18446744073709551615#0#0(6@95"/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/mainwindow.h332896580#4#0#4#0#0"0(7@99"In file included from /usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/QMainWindow332896807#18446744073709551615#0#0(6@77"/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/QMainWindow330296167#1#0#1#0#0"0(13@128"QtGui/qtabwidget.h: No such file or directory in /usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/qmainwindow.h332896807#18446744073709551615#0#0(6@79"/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/qmainwindow.h330296167#46#0#46#0#0"0(6@79"/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/qmainwindow.h330296167#46#0#46#0#28"*: No such file or directory0(0#0#97"/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/mainwindow.cpp8603443936#1785"    cd /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project    setenv LANG en_US.US-ASCII    /Xcode3/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mdynamic-no-pic -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/qt.hmap -F/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug -I/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug/include -I/usr/local/Cellar/qt/4.7.3/lib/QtCore.framework/Versions/4/Headers -I/usr/local/Cellar/qt/4.7.3/include/QtCore -I/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers -I/usr/local/Cellar/qt/4.7.3/include/QtGui -I/usr/local/Cellar/qt/4.7.3/include -I/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers -I/usr/local/Cellar/opencv/2.2/include/opencv -I/usr/local/include -I. -I. -I/usr/local/include -I/System/Library/Frameworks/CarbonCore.framework/Headers -I/usr/local/Cellar/qt/4.7.3/mkspecs/macx-xcode -I/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/DerivedSources/i386 -I/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/DerivedSources -pipe -O2 -Wall -W -DQT_NO_DEBUG -DQT_GUI_LIB -DQT_CORE_LIB -DQT_SHARED -c /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/mainwindow.cpp -o /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/Objects-normal/i386/mainwindow.o2#
+
+CCompileC build/qt.build/Debug/qt.build/Objects-normal/i386/moc_mainwindow.o /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/moc_mainwindow.cpp normal i386 c++ com.apple.compilers.gcc.4_2
+s332896807.700787
+e332896811.735301
+r0
+xCompileC
+xbuild/qt.build/Debug/qt.build/Objects-normal/i386/moc_mainwindow.o
+x/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/moc_mainwindow.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.gcc.4_2
+oIn file included from /usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/QMainWindow:1,
+o                 from /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/mainwindow.h:4,
+o                 from /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/moc_mainwindow.cpp:10:
+o/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/qmainwindow.h:45:27: error: QtGui/qwidget.h: No such file or directory
+o/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/qmainwindow.h:46:30: error: QtGui/qtabwidget.h: No such file or directory
+lSLF07#2@109"Compile /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/moc_mainwindow.cpp332896807#332896811#0(629"In file included from /usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/QMainWindow:1,                 from /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/mainwindow.h:4,                 from /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/moc_mainwindow.cpp:10:/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/qmainwindow.h:45:27: error: QtGui/qwidget.h: No such file or directory/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/qmainwindow.h:46:30: error: QtGui/qtabwidget.h: No such file or directory2(4@42"QtGui/qwidget.h: No such file or directory332896807#352#137#4(7@123"In file included from /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/moc_mainwindow.cpp332896807#18446744073709551615#0#0(6@101"/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/moc_mainwindow.cpp332896807#10#0#10#0#0"0(7@117"In file included from /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/mainwindow.h332896807#18446744073709551615#0#0(6@95"/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/mainwindow.h332896580#4#0#4#0#0"0(7@99"In file included from /usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/QMainWindow332896807#18446744073709551615#0#0(6@77"/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/QMainWindow330296167#1#0#1#0#0"0(13@125"QtGui/qwidget.h: No such file or directory in /usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/qmainwindow.h332896807#18446744073709551615#0#0(6@79"/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/qmainwindow.h330296167#45#0#45#0#0"0(6@79"/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/qmainwindow.h330296167#45#0#45#0#28"*: No such file or directory0(4@45"QtGui/qtabwidget.h: No such file or directory332896807#489#140#4(7@123"In file included from /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/moc_mainwindow.cpp332896807#18446744073709551615#0#0(6@101"/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/moc_mainwindow.cpp332896807#10#0#10#0#0"0(7@117"In file included from /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/mainwindow.h332896807#18446744073709551615#0#0(6@95"/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/mainwindow.h332896580#4#0#4#0#0"0(7@99"In file included from /usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/QMainWindow332896807#18446744073709551615#0#0(6@77"/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/QMainWindow330296167#1#0#1#0#0"0(13@128"QtGui/qtabwidget.h: No such file or directory in /usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/qmainwindow.h332896807#18446744073709551615#0#0(6@79"/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/qmainwindow.h330296167#46#0#46#0#0"0(6@79"/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers/qmainwindow.h330296167#46#0#46#0#28"*: No such file or directory0(0#0#101"/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/moc_mainwindow.cpp8603521632#1793"    cd /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project    setenv LANG en_US.US-ASCII    /Xcode3/usr/bin/gcc-4.2 -x c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -mdynamic-no-pic -fvisibility=hidden -fvisibility-inlines-hidden -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/qt.hmap -F/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug -I/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug/include -I/usr/local/Cellar/qt/4.7.3/lib/QtCore.framework/Versions/4/Headers -I/usr/local/Cellar/qt/4.7.3/include/QtCore -I/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers -I/usr/local/Cellar/qt/4.7.3/include/QtGui -I/usr/local/Cellar/qt/4.7.3/include -I/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers -I/usr/local/Cellar/opencv/2.2/include/opencv -I/usr/local/include -I. -I. -I/usr/local/include -I/System/Library/Frameworks/CarbonCore.framework/Headers -I/usr/local/Cellar/qt/4.7.3/mkspecs/macx-xcode -I/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/DerivedSources/i386 -I/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/DerivedSources -pipe -O2 -Wall -W -DQT_NO_DEBUG -DQT_GUI_LIB -DQT_CORE_LIB -DQT_SHARED -c /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/moc_mainwindow.cpp -o /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/Objects-normal/i386/moc_mainwindow.o2#
+
+CLd /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug/qt.app/Contents/MacOS/qt normal i386
+r0
+
+CPBXCp qt.app build/Debug/qt.app
+r0
+
+CPhaseScriptExecution "Qt Preprocessors" /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/Script-A0A52A2ADF7A1E2A99738674.sh
+s332896807.538077
+e332896807.699455
+r1
+xPhaseScriptExecution
+xQt Preprocessors
+x/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/Script-A0A52A2ADF7A1E2A99738674.sh
+o/usr/local/Cellar/qt/4.7.3/bin/moc -DQT_NO_DEBUG -DQT_GUI_LIB -DQT_CORE_LIB -DQT_SHARED -I/usr/local/Cellar/qt/4.7.3/mkspecs/macx-xcode -I. -I/usr/local/Cellar/qt/4.7.3/lib/QtCore.framework/Versions/4/Headers -I/usr/local/Cellar/qt/4.7.3/include/QtCore -I/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers -I/usr/local/Cellar/qt/4.7.3/include/QtGui -I/usr/local/Cellar/qt/4.7.3/include -I/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers -I/usr/local/Cellar/opencv/2.2/include/opencv -I/usr/local/include -I. -I. -I/usr/local/include -I/System/Library/Frameworks/CarbonCore.framework/Headers -F/usr/local/Cellar/qt/4.7.3/lib -D__APPLE__ -D__GNUC__ mainwindow.h -o moc_mainwindow.cpp
+lSLF07#2@42"Run custom shell script 'Qt Preprocessors'332896807#332896807#0(714"/usr/local/Cellar/qt/4.7.3/bin/moc -DQT_NO_DEBUG -DQT_GUI_LIB -DQT_CORE_LIB -DQT_SHARED -I/usr/local/Cellar/qt/4.7.3/mkspecs/macx-xcode -I. -I/usr/local/Cellar/qt/4.7.3/lib/QtCore.framework/Versions/4/Headers -I/usr/local/Cellar/qt/4.7.3/include/QtCore -I/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers -I/usr/local/Cellar/qt/4.7.3/include/QtGui -I/usr/local/Cellar/qt/4.7.3/include -I/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers -I/usr/local/Cellar/opencv/2.2/include/opencv -I/usr/local/include -I. -I. -I/usr/local/include -I/System/Library/Frameworks/CarbonCore.framework/Headers -F/usr/local/Cellar/qt/4.7.3/lib -D__APPLE__ -D__GNUC__ mainwindow.h -o moc_mainwindow.cpp1(13@714"/usr/local/Cellar/qt/4.7.3/bin/moc -DQT_NO_DEBUG -DQT_GUI_LIB -DQT_CORE_LIB -DQT_SHARED -I/usr/local/Cellar/qt/4.7.3/mkspecs/macx-xcode -I. -I/usr/local/Cellar/qt/4.7.3/lib/QtCore.framework/Versions/4/Headers -I/usr/local/Cellar/qt/4.7.3/include/QtCore -I/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers -I/usr/local/Cellar/qt/4.7.3/include/QtGui -I/usr/local/Cellar/qt/4.7.3/include -I/usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers -I/usr/local/Cellar/opencv/2.2/include/opencv -I/usr/local/include -I. -I. -I/usr/local/include -I/System/Library/Frameworks/CarbonCore.framework/Headers -F/usr/local/Cellar/qt/4.7.3/lib -D__APPLE__ -D__GNUC__ mainwindow.h -o moc_mainwindow.cpp332896807#0#714#0(1@0"0(0#0#0"8607698368#18237"    cd /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER danho    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_64_BIT "x86_64 i386"    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_STANDARD_64_BIT x86_64    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build    setenv BUILD_ROOT /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug    setenv CACHE_ROOT /var/folders/Um/UmbbbYPQEJKVGYI6peDMlE+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/Um/UmbbbYPQEJKVGYI6peDMlE+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug/qt.app    setenv CODE_SIGNING_ALLOWED YES    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/Um/UmbbbYPQEJKVGYI6peDMlE+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug    setenv CONFIGURATION_TEMP_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug    setenv CONTENTS_FOLDER_PATH qt.app/Contents    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Xcode3/Applications    setenv DEVELOPER_BIN_DIR /Xcode3/usr/bin    setenv DEVELOPER_DIR /Xcode3    setenv DEVELOPER_FRAMEWORKS_DIR /Xcode3/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Xcode3/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Xcode3/Library    setenv DEVELOPER_SDK_DIR /Xcode3/SDKs    setenv DEVELOPER_TOOLS_DIR /Xcode3/Tools    setenv DEVELOPER_USR_DIR /Xcode3/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH qt.app/Contents/Resources/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/qt.dst    setenv DWARF_DSYM_FILE_NAME qt.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug    setenv DYLIB_COMPATIBILITY_VERSION 1.0    setenv DYLIB_CURRENT_VERSION 1.0.0    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH qt.app/Contents/Executables    setenv EXECUTABLE_FOLDER_PATH qt.app/Contents/MacOS    setenv EXECUTABLE_NAME qt    setenv EXECUTABLE_PATH qt.app/Contents/MacOS/qt    setenv FILE_LIST /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH qt.app/Contents/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME qt.app    setenv GCC3_VERSION 3.3    setenv GCC_DYNAMIC_NO_PIC YES    setenv GCC_GENERATE_DEBUGGING_SYMBOLS YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug/include\" /usr/local/Cellar/qt/4.7.3/lib/QtCore.framework/Versions/4/Headers /usr/local/Cellar/qt/4.7.3/include/QtCore /usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers /usr/local/Cellar/qt/4.7.3/include/QtGui /usr/local/Cellar/qt/4.7.3/include /usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers /usr/local/Cellar/opencv/2.2/include/opencv /usr/local/include . . /usr/local/include /System/Library/Frameworks/CarbonCore.framework/Headers /usr/local/Cellar/qt/4.7.3/mkspecs/macx-xcode"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE Info.plist    setenv INFOPLIST_OUTPUT_FORMAT same-as-input    setenv INFOPLIST_PATH qt.app/Contents/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH qt.app/Contents/Resources/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/qt.dst/Users/danho/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER danho    setenv INSTALL_PATH /Users/danho/Applications    setenv INSTALL_ROOT /tmp/qt.dst    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH qt.app/Contents/Resources/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/qt-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Xcode3/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug\" /usr/local/Cellar/qt/4.7.3/lib /usr/X11/lib /usr/local/Cellar/qt/4.7.3/lib"    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/Objects-normal/i386/qt.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH qt.app/Contents/Resources/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.4    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 10K540    setenv MAC_OS_X_VERSION_ACTUAL 1068    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0608    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/Objects-normal    setenv OBJROOT /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CFLAGS "-pipe -O2 -Wall -W -DQT_NO_DEBUG -DQT_GUI_LIB -DQT_CORE_LIB -DQT_SHARED"    setenv OTHER_CPLUSPLUSFLAGS "-pipe -O2 -Wall -W -DQT_NO_DEBUG -DQT_GUI_LIB -DQT_CORE_LIB -DQT_SHARED"    setenv OTHER_LDFLAGS "-headerpad_max_install_names -L/usr/local/Cellar/qt/4.7.3/lib -F/usr/local/Cellar/qt/4.7.3/lib -lssl -lcrypto -L/usr/X11/lib -L/usr/local/Cellar/qt/4.7.3/lib -F/usr/local/Cellar/qt/4.7.3/lib"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Xcode3/Headers /Xcode3/SDKs /Xcode3/Platforms"    setenv PBDEVELOPMENTPLIST_PATH qt.app/Contents/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS c++    setenv PKGINFO_FILE_PATH /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/PkgInfo    setenv PKGINFO_PATH qt.app/Contents/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Xcode3/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Xcode3/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Xcode3/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Xcode3/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Xcode3/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Xcode3/usr    setenv PLATFORM_NAME macosx    setenv PLATFORM_PRODUCT_BUILD_VERSION 10M2518    setenv PLIST_FILE_OUTPUT_FORMAT same-as-input    setenv PLUGINS_FOLDER_PATH qt.app/Contents/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH qt.app/Contents/PrivateHeaders    setenv PRODUCT_NAME qt    setenv PRODUCT_SETTINGS_PATH /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT qt    setenv PROJECT_DERIVED_FILE_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/DerivedSources    setenv PROJECT_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project    setenv PROJECT_FILE_PATH /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/qt.xcodeproj    setenv PROJECT_NAME qt    setenv PROJECT_TEMP_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build    setenv PUBLIC_HEADERS_FOLDER_PATH qt.app/Contents/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH qt.app/Contents/Resources/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT     setenv SDK_PRODUCT_BUILD_VERSION 10K540    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH qt.app/Contents/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/Um/UmbbbYPQEJKVGYI6peDMlE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH qt.app/Contents/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project    setenv SRCROOT /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING UTF-16    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SYMBOL_REPOSITORY_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/SymbolRepositories    setenv SYMROOT /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Xcode3/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Xcode3/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Xcode3/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Xcode3    setenv SYSTEM_DEVELOPER_DOC_DIR "/Xcode3/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Xcode3/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Xcode3/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Xcode3/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Xcode3/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Xcode3/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Xcode3/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Xcode3/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Xcode3/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Xcode3/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETNAME qt    setenv TARGET_BUILD_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug    setenv TARGET_NAME qt    setenv TARGET_TEMP_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build    setenv TEMP_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build    setenv TEMP_FILES_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build    setenv TEMP_FILE_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build    setenv TEMP_ROOT /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH qt.app/Contents/Resources    setenv UNSTRIPPED_PRODUCT NO    setenv USER danho    setenv USER_APPS_DIR /Users/danho/Applications    setenv USER_LIBRARY_DIR /Users/danho/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "i386 ppc ppc64 ppc7400 ppc970 x86_64"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH qt.app/Contents/version.plist    setenv VERSION_INFO_BUILDER danho    setenv VERSION_INFO_FILE qt_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:qt  PROJECT:qt-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME qt.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Xcode3/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2518    setenv XCODE_VERSION_ACTUAL 0400    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0400    setenv YACC /Xcode3/usr/bin/yacc    setenv YACCFLAGS -d    /bin/sh -c /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/Script-A0A52A2ADF7A1E2A99738674.sh0#
+
+CPhaseScriptExecution "Qt Qmake" /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/Script-D7BA7D76DAB5DD13389D6332.sh
+s332896807.425236
+e332896807.537810
+r1
+xPhaseScriptExecution
+xQt Qmake
+x/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/Script-D7BA7D76DAB5DD13389D6332.sh
+omake: `qt.xcodeproj/project.pbxproj' is up to date.
+lSLF07#2@34"Run custom shell script 'Qt Qmake'332896807#332896807#0(52"make: `qt.xcodeproj/project.pbxproj' is up to date.1(13@52"make: `qt.xcodeproj/project.pbxproj' is up to date.332896807#0#52#0(1@0"0(0#0#0"8602771424#18237"    cd /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER danho    setenv ALWAYS_SEARCH_USER_PATHS YES    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_64_BIT "x86_64 i386"    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_STANDARD_64_BIT x86_64    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build    setenv BUILD_ROOT /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug    setenv CACHE_ROOT /var/folders/Um/UmbbbYPQEJKVGYI6peDMlE+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/Um/UmbbbYPQEJKVGYI6peDMlE+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug/qt.app    setenv CODE_SIGNING_ALLOWED YES    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/Um/UmbbbYPQEJKVGYI6peDMlE+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug    setenv CONFIGURATION_TEMP_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug    setenv CONTENTS_FOLDER_PATH qt.app/Contents    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Xcode3/Applications    setenv DEVELOPER_BIN_DIR /Xcode3/usr/bin    setenv DEVELOPER_DIR /Xcode3    setenv DEVELOPER_FRAMEWORKS_DIR /Xcode3/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Xcode3/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Xcode3/Library    setenv DEVELOPER_SDK_DIR /Xcode3/SDKs    setenv DEVELOPER_TOOLS_DIR /Xcode3/Tools    setenv DEVELOPER_USR_DIR /Xcode3/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH qt.app/Contents/Resources/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/qt.dst    setenv DWARF_DSYM_FILE_NAME qt.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug    setenv DYLIB_COMPATIBILITY_VERSION 1.0    setenv DYLIB_CURRENT_VERSION 1.0.0    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH qt.app/Contents/Executables    setenv EXECUTABLE_FOLDER_PATH qt.app/Contents/MacOS    setenv EXECUTABLE_NAME qt    setenv EXECUTABLE_PATH qt.app/Contents/MacOS/qt    setenv FILE_LIST /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH qt.app/Contents/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME qt.app    setenv GCC3_VERSION 3.3    setenv GCC_DYNAMIC_NO_PIC YES    setenv GCC_GENERATE_DEBUGGING_SYMBOLS YES    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug/include\" /usr/local/Cellar/qt/4.7.3/lib/QtCore.framework/Versions/4/Headers /usr/local/Cellar/qt/4.7.3/include/QtCore /usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers /usr/local/Cellar/qt/4.7.3/include/QtGui /usr/local/Cellar/qt/4.7.3/include /usr/local/Cellar/qt/4.7.3/lib/QtGui.framework/Versions/4/Headers /usr/local/Cellar/opencv/2.2/include/opencv /usr/local/include . . /usr/local/include /System/Library/Frameworks/CarbonCore.framework/Headers /usr/local/Cellar/qt/4.7.3/mkspecs/macx-xcode"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE Info.plist    setenv INFOPLIST_OUTPUT_FORMAT same-as-input    setenv INFOPLIST_PATH qt.app/Contents/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH qt.app/Contents/Resources/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/qt.dst/Users/danho/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER danho    setenv INSTALL_PATH /Users/danho/Applications    setenv INSTALL_ROOT /tmp/qt.dst    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH qt.app/Contents/Resources/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/qt-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Xcode3/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug\" /usr/local/Cellar/qt/4.7.3/lib /usr/X11/lib /usr/local/Cellar/qt/4.7.3/lib"    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/Objects-normal/i386/qt.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH qt.app/Contents/Resources/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.4    setenv MAC_OS_X_PRODUCT_BUILD_VERSION 10K540    setenv MAC_OS_X_VERSION_ACTUAL 1068    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0608    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJECT_FILE_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/Objects-normal    setenv OBJROOT /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_CFLAGS "-pipe -O2 -Wall -W -DQT_NO_DEBUG -DQT_GUI_LIB -DQT_CORE_LIB -DQT_SHARED"    setenv OTHER_CPLUSPLUSFLAGS "-pipe -O2 -Wall -W -DQT_NO_DEBUG -DQT_GUI_LIB -DQT_CORE_LIB -DQT_SHARED"    setenv OTHER_LDFLAGS "-headerpad_max_install_names -L/usr/local/Cellar/qt/4.7.3/lib -F/usr/local/Cellar/qt/4.7.3/lib -lssl -lcrypto -L/usr/X11/lib -L/usr/local/Cellar/qt/4.7.3/lib -F/usr/local/Cellar/qt/4.7.3/lib"    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Xcode3/Headers /Xcode3/SDKs /Xcode3/Platforms"    setenv PBDEVELOPMENTPLIST_PATH qt.app/Contents/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS c++    setenv PKGINFO_FILE_PATH /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/PkgInfo    setenv PKGINFO_PATH qt.app/Contents/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Xcode3/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Xcode3/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Xcode3/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Xcode3/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Xcode3/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Xcode3/usr    setenv PLATFORM_NAME macosx    setenv PLATFORM_PRODUCT_BUILD_VERSION 10M2518    setenv PLIST_FILE_OUTPUT_FORMAT same-as-input    setenv PLUGINS_FOLDER_PATH qt.app/Contents/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH qt.app/Contents/PrivateHeaders    setenv PRODUCT_NAME qt    setenv PRODUCT_SETTINGS_PATH /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT qt    setenv PROJECT_DERIVED_FILE_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/DerivedSources    setenv PROJECT_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project    setenv PROJECT_FILE_PATH /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/qt.xcodeproj    setenv PROJECT_NAME qt    setenv PROJECT_TEMP_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build    setenv PUBLIC_HEADERS_FOLDER_PATH qt.app/Contents/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH qt.app/Contents/Resources/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT     setenv SDK_PRODUCT_BUILD_VERSION 10K540    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHARED_DERIVED_FILE_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH qt.app/Contents/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/Um/UmbbbYPQEJKVGYI6peDMlE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH qt.app/Contents/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project    setenv SRCROOT /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING UTF-16    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SYMBOL_REPOSITORY_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/SymbolRepositories    setenv SYMROOT /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Xcode3/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Xcode3/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Xcode3/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Xcode3    setenv SYSTEM_DEVELOPER_DOC_DIR "/Xcode3/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Xcode3/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Xcode3/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Xcode3/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Xcode3/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Xcode3/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Xcode3/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Xcode3/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Xcode3/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Xcode3/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETNAME qt    setenv TARGET_BUILD_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug    setenv TARGET_NAME qt    setenv TARGET_TEMP_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build    setenv TEMP_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build    setenv TEMP_FILES_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build    setenv TEMP_FILE_DIR /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build    setenv TEMP_ROOT /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH qt.app/Contents/Resources    setenv UNSTRIPPED_PRODUCT NO    setenv USER danho    setenv USER_APPS_DIR /Users/danho/Applications    setenv USER_LIBRARY_DIR /Users/danho/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS "i386 ppc ppc64 ppc7400 ppc970 x86_64"    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH qt.app/Contents/version.plist    setenv VERSION_INFO_BUILDER danho    setenv VERSION_INFO_FILE qt_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:qt  PROJECT:qt-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME qt.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Xcode3/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2518    setenv XCODE_VERSION_ACTUAL 0400    setenv XCODE_VERSION_MAJOR 0400    setenv XCODE_VERSION_MINOR 0400    setenv YACC /Xcode3/usr/bin/yacc    setenv YACCFLAGS -d    /bin/sh -c /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/qt.build/Debug/qt.build/Script-D7BA7D76DAB5DD13389D6332.sh0#
+
+CProcessInfoPlistFile /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug/qt.app/Contents/Info.plist Info.plist
+s332896807.411260
+e332896807.425176
+r1
+xProcessInfoPlistFile
+x/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug/qt.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist332896807#332896807#0(0"0(0#0#93"/Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/Info.plist13229766294700130#424"    cd /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project    builtin-infoPlistUtility Info.plist -genpkginfo /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug/qt.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug/qt.app/Contents/Info.plist0#
+
+CTouch /Users/danho/Projects/Multimedia_Tools/H264_Video_Compression/CMPT365_Term_Project/build/Debug/qt.app
+r0
+
